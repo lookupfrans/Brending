@@ -7,6 +7,10 @@
     margin: 0px;
     padding: 0px;
   }
+
+  .clear {
+    clear: left; 
+  }
   
   .header {
     width: 1350px;
@@ -59,6 +63,10 @@
     opacity: 0.8;
   }
   
+  .menu-icon {
+    display: none;
+  }
+  
   .log-in:hover {
     background-color: rgba(255, 255, 255, 0.5);
     position: block;
@@ -67,8 +75,10 @@
 
   .header-list a {
     line-height: 65px;
-    padding: 0 25px;
     color: brown;
+    width: 100%;
+    padding: 0 15px;
+    margin: 0 auto;
   }
 
   .container {
@@ -77,9 +87,13 @@
     margin: 0 auto;
   }
 
+  .top-wrapper {
+    background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
+
+  }
   h1 {
     letter-spacing: 5px;
-    text-align: center;
+    text-align: cente;
     padding-bottom: 0px;
   }
 
@@ -113,7 +127,6 @@
 
   .list-icon {
     position: relative;
-    float: left;
     margin-left: 70px;
     justify-content: center;
     text-align: center;
@@ -121,6 +134,22 @@
     left: 70px;
     right: 50px;
     height: 70px;
+    width: 25%;
+    float: left;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  @media (max-width: 1000px) {
+    .list-icon {
+      width: 50%;
+    }
+  }
+
+  @media (max-width: 670px) {
+    .list-icon {
+      width: 100%;
+    }
   }
 
   .list-icon p {
