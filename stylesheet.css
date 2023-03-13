@@ -147,6 +147,13 @@
   }
 
   @media (max-width: 670px) {
+      .header {
+          wdith: 100%;
+      }
+      
+    .footer {
+        width: 100%;
+      }
     .list-icon {
       width: 100%;
     }
