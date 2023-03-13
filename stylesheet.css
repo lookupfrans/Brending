@@ -148,14 +148,14 @@
 
   @media (max-width: 670px) {
       .header {
-          wdith: 100%;
+          width: 25%;
       }
       
     .footer {
-        width: 100%;
+        width: 25%;
       }
     .list-icon {
-      width: 100%;
+      width: 25%;
     }
   }
 
