@@ -28,7 +28,7 @@
   
   @media all and (max-width: 670px) {
     .header {
-        width: 100%;
+        width: 250%;
       }
       
     .top-wrapper {
@@ -41,18 +41,18 @@
       }
       
      .message-wrapper {
-       width: 100%;
+       width: 250%;
       }
       
     .footer {
-        width: 100%;
+        width: 250%;
       }
       
     .list-wrappers {
-      width: 100%;
+      width: 250%;
         
     .list-icon {
-      width: 100%;
+      width: 250%;
     }
    }
 
