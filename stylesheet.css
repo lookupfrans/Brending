@@ -142,15 +142,8 @@
 
   @media (max-width: 670px) {
       .header {
-          width: 25%;
+          width: 250%;
       }
-      
-    .footer {
-        width: 25%;
-      }
-    .list-icon {
-      width: 25%;
-    }
   }
 
   .list-icon p {
