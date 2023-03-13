@@ -5,8 +5,13 @@
     }
   }
 
+.header {
+    width: 1500px;
+}
+
  .container {
     text-align: center;
+     font-size: 40px;
   }
     
     .top-wrapper {
@@ -27,9 +32,15 @@
  .container {
     text-align: center;
   }
-    
+
+
+  .list-icon {
+    position: relative;
+}
+
     footer {
       text-align: center;
+      width: 1500px
     }
     
     .btn {
