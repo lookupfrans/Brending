@@ -87,13 +87,9 @@
     margin: 0 auto;
   }
 
-  .top-wrapper {
-    background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
-
-  }
   h1 {
     letter-spacing: 5px;
-    text-align: cente;
+    text-align: center;
     padding-bottom: 0px;
   }
 
@@ -189,7 +185,7 @@
   .btn {
     padding-bottom: 50px;
     margin-top: 20px;
-    display: inline-bloc;
+    display: inline-block;
     height: 25px;
     left: 25px;
     width: 150px;
@@ -211,7 +207,7 @@
     padding-top: 15px;
     padding-left: 20px;
     padding-right: 20px;
-    color:white;
+    color: white;
     opacity: 0.8;
     font-weight: bold;
     position: block;
