@@ -1,34 +1,7 @@
-@media all and (max-width: 1000px) {
-    .list-wrappers {
-      width: 50%;
-      margin-bottom: 50px;
-    }
-  }
-    
-    .top-wrapper {
-      font-size: 32px;
-    }
 
-    .top-wrapper h1 {
-      font-size: 32px;
-    }
-  
-    .heading h2 {
-      font-size: 20px;
-    }
-
-    .container h2 {
-      font-size: 20px;
-    }
-
-    .container {
-      text-align: center;
-    }
-  
-  
-  @media all and (max-width: 670px) {
+   @media all and (max-width: 670px) {
     .header {
-        width: 250%;
+        width: 25%;
       }
       
     .top-wrapper {
@@ -54,7 +27,6 @@
     .list-icon {
       width: 250%;
     }
-   }
 
   .container {
     text-align: center;
