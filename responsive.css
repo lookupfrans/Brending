@@ -31,10 +31,27 @@
         width: 100%;
       }
       
+    .top-wrapper {
+      text-align: center;
+      padding-top: 130px;
+      }
+      
+    .menu-icon {
+      display: block;
+      }
+      
+     .message-wrapper {
+       width: 100%;
+      }
+      
     .footer {
         width: 100%;
       }
+      
     .list-wrappers {
+      width: 100%;
+        
+    .list-icon {
       width: 100%;
     }
    }
@@ -54,7 +71,7 @@
     .top-wrapper {
       text-align: center;
       padding-top: 130px;
-  }
+    }
   .top-wrapper h1 {
     font-size: 24px;
     line-height: 36px;
@@ -64,10 +81,6 @@
     font-size: 14px;
     line-height: 20px;
   }  
-
-  .menu-icon {
-    display: block;
-  }
 
    .log-in {
       display: none;
