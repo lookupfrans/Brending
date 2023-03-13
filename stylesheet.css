@@ -140,12 +140,6 @@
     padding-right: 15px;
   }
 
-  @media (max-width: 1000px) {
-    .list-icon {
-      width: 50%;
-    }
-  }
-
   @media (max-width: 670px) {
       .header {
           width: 25%;
