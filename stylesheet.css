@@ -13,11 +13,11 @@
   }
   
   .header {
-    width: 1350px;
+    width: 1550px;
     height: 110px;
     padding: 10px 20px;
     margin: auto;
-    background-color:rgba(34, 49, 52, 0.9);
+    background-color: rgba(34, 49, 52, 0.9);
     z-index: 10;
   }
 
